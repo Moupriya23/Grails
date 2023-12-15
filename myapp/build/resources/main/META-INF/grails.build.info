@@ -1,0 +1,6 @@
+#Wed, 13 Dec 2023 12:17:35 +0530
+
+info.app.version=0.1
+info.app.name=myapp
+grails.env=development
+info.app.grailsVersion=6.0.0
